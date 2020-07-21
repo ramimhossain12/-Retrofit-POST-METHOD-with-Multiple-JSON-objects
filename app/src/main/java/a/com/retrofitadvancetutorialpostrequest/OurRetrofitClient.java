@@ -1,12 +1,12 @@
-package tasnuvaoshin.com.retrofitadvancetutorialpostrequest;
+package a.com.retrofitadvancetutorialpostrequest;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.POST;
-import tasnuvaoshin.com.retrofitadvancetutorialpostrequest.Response.MainResponseObjectClass;
-import tasnuvaoshin.com.retrofitadvancetutorialpostrequest.tutorial5.CreateUserClass;
+import a.com.retrofitadvancetutorialpostrequest.Response.MainResponseObjectClass;
+import a.com.retrofitadvancetutorialpostrequest.First.CreateUserClass;
 
 public interface OurRetrofitClient {
 

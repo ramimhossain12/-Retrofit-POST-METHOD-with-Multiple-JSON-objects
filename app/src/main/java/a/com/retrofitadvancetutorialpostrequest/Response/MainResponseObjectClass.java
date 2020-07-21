@@ -1,6 +1,6 @@
-package tasnuvaoshin.com.retrofitadvancetutorialpostrequest.Response;
+package a.com.retrofitadvancetutorialpostrequest.Response;
 
-import tasnuvaoshin.com.retrofitadvancetutorialpostrequest.LastLoginObject;
+import a.com.retrofitadvancetutorialpostrequest.LastLoginObject;
 
 public class MainResponseObjectClass {
     private String name;

@@ -1,4 +1,4 @@
-package tasnuvaoshin.com.retrofitadvancetutorialpostrequest;
+package a.com.retrofitadvancetutorialpostrequest;
 
 import org.junit.Test;
 

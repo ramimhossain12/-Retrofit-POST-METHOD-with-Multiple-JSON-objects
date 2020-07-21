@@ -1,4 +1,4 @@
-package tasnuvaoshin.com.retrofitadvancetutorialpostrequest;
+package a.com.retrofitadvancetutorialpostrequest;
 
 public class LastLoginObject {
     public LastLoginObject() {
